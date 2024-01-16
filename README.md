@@ -1,53 +1,78 @@
-# Apie projektą
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
+[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-Paprastas paragafas su [nuoroda](https://example.com).
+# Ufo
 
-![Ufo nuotrauka](./ufo.jpg)
+_website design project_
 
-## Antro lygio antraštė
+<br>
 
-Lorem ipsum **dolor sit amet consectetur** adipisicing elit. Fugiat iste, corrupti id, dolor cum eos unde tenetur **_porro_** quae, _**assumenda**_ fugit cupiditate ullam sit culpa dolorum totam natus labore suscipit!
+## 🌟 About
 
-> Text that is a quote
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-> Text that is a quote
+Site published at: https://front-end-by-rimantas.github.io/48-grupe-ufo/
 
-> Text that is a quote
+Design: [Ufo](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
 
-### Trečio lygio antraštė
+## 🎯 Project features/goals
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Ufo</title>
-    </head>
-    <body>
-        CONTENT
-    </body>
-</html>
+-   Github pages
+-   CSS units: px, %
+-   basic design layout
+-   image with relative paths
+
+## 🧰 Getting Started
+
+### 💻 Prerequisites
+
+Node.js - _download and install_
+
+```
+https://nodejs.org
 ```
 
-```js
-const x = 5;
+Git - _download and install_
 
-function sum(a, b) {
-    return a + b;
-}
+```
+https://git-scm.com
 ```
 
-Lorem ipsum dolor sit _amet consectetur_ adipisicing elit. Fugiat iste, corrupti id, dolor cum eos unde tenetur porro quae, assumenda fugit cupiditate ullam sit culpa dolorum totam natus labore suscipit!
+### 🏃 Run locally
 
-#### Ketvirto lygio antraštė
+Would like to run this project locally? Open terminal and follow these steps:
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat iste, corrupti id, dolor cum eos unde tenetur porro quae, assumenda fugit cupiditate ullam sit culpa dolorum totam natus labore suscipit!
+1. Clone the repo
+    ```sh
+    git clone https://github.com/front-end-by-rimantas/48-grupe-ufo.git
+    ```
+2. Install NPM packages
+    ```sh
+    npm i
+    ```
+    or
+    ```sh
+    npm install
+    ```
+3. Run the server
+    ```sh
+    npm run dev
+    ```
 
-##### Penkto lygio antraštė
+### 🧪 Running tests
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat iste, corrupti id, dolor cum eos unde tenetur porro quae, assumenda fugit cupiditate ullam sit culpa dolorum totam natus labore suscipit!
+There is no tests for this project.
 
-###### Šešto lygio antraštė
+## 🎅 Authors
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat iste, corrupti id, dolor cum eos unde tenetur porro quae, assumenda fugit cupiditate ullam sit culpa dolorum totam natus labore suscipit!
+Rimantas: [Github](https://github.com/belauzas)
+
+## ⚠️ License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+## 🔗 Other resources
+
+No other resources.
